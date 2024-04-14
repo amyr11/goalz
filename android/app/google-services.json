@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000633947549",
+    "project_id": "goalz-4d057",
+    "storage_bucket": "goalz-4d057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000633947549:android:b779e7d1888cdc7f8bcb74",
+        "android_client_info": {
+          "package_name": "com.example.goalz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5pfJ2B8UkGI0jTAlbq-7diaNrwZsMTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
